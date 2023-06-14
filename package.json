@@ -1,0 +1,13 @@
+{
+  "name": "anatomic-bunyan",
+  "version": "0.2.0",
+  "description": "An anatomic component for bunyan",
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "main": "index.js",
+  "repository": "github:add1ed/anatomic-bunyan",
+  "author": "add1ed",
+  "license": "ISC"
+}
